@@ -3,6 +3,7 @@
 1. # Business Understanding
 Churn prediction is a technique used to identify customers who are likely to stop using a product or service being offered by a company or organization. Churn prediction is important for businesses, especially those that rely on recurring revenue mostly through a subscription plan. Retaining already existing customers for the case of such companies is idealy more cost-effective in comparison to acquiring new customers.
 By identifying customers who are at a high risk of churning, businesses can put proactive measures in place to prevent the churn and as a result retain the valuable customers.
+
 2. # Problem Statement
 To build a ML model that predicts which customers are likely to churn
 
