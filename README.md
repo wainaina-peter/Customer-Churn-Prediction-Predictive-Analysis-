@@ -10,5 +10,5 @@ To build a ML model that predicts which customers are likely to churn
 3. # Metric of success
 Having a model that scores well on evaluation metrics like recall.
 
-3. # Modelling
+4. # Modelling
 The model is built using the logistic regression algorithm, which is a popular and interpretable machine learning technique. It leverages historical data on customer churn, including information about customers, their purchases, demographics, and usage patterns, to make predictions about future churn.
