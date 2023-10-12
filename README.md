@@ -5,7 +5,7 @@ Churn prediction is a technique used to identify customers who are likely to sto
 By identifying customers who are at a high risk of churning, businesses can put proactive measures in place to prevent the churn and as a result retain the valuable customers.
 
 2. # Problem Statement
-To build a ML model that predicts which customers are likely to churn
+To build a ML model that predicts which customers are likely to churn.
 
 3. # Metric of success
 Having a model that scores well on evaluation metrics like recall.
