@@ -30,8 +30,8 @@ The model is built using the logistic regression algorithm, which is a popular a
 7. # Recommendations
 Based on the analysis conducted of the different columns against the target variable churn, I recommend the following:
 
-Introduce favorable bundle packages in order to retain and increase the subsribers with partners as they are less likely to churn based on the data.
-Have offers for people who pay yearly for subsriprion, for example offer them a discount as people who pay yearly or for two years are less likely to churn as seen in the data.
-Collaborate with phone services as people who use them are less likely to churn.
-Introduce packages that target people with no dependants as they are less likely to churn based on the data.
-Have a preference on paperless billing as it seems people who are billed in a paperless manner are more likely not to churn.
+- Introduce favorable bundle packages in order to retain and increase the subsribers with partners as they are less likely to churn based on the data.
+- Have offers for people who pay yearly for subsriprion, for example offer them a discount as people who pay yearly or for two years are less likely to churn as seen in the data.
+- Collaborate with phone services as people who use them are less likely to churn.
+- Introduce packages that target people with no dependants as they are less likely to churn based on the data.
+- Have a preference on paperless billing as it seems people who are billed in a paperless manner are more likely not to churn.
