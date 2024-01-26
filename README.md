@@ -16,10 +16,10 @@ The telecom industry is dealing with more customers leaving, and it's important 
 To reduce customer churn by implementing strategies to significantly reduce overall customer churn rates within the telecom company.
 
 4. ## Specific Objectives
-1. To review the telecom data and identify what may lead to customer churn.
-2. To clean the data I.e check for missing values, outliers
-3. Perform Exploratory Data Analysis in order to identify hidden patterns that may be in the data.
-4. Build a ML model that accurately predicts whether a customer is likely to churn based on the input variables.
+- To review the telecom data and identify what may lead to customer churn.
+- To clean the data I.e check for missing values, outliers
+- Perform Exploratory Data Analysis in order to identify hidden patterns that may be in the data.
+- Build a ML model that accurately predicts whether a customer is likely to churn based on the input variables.
 
 5. # Metric of success
 Having a model that scores well on evaluation metrics like recall.
