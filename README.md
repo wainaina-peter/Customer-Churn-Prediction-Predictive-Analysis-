@@ -35,3 +35,8 @@ Based on the analysis conducted of the different columns against the target vari
 - Collaborate with phone services as people who use them are less likely to churn.
 - Introduce packages that target people with no dependants as they are less likely to churn based on the data.
 - Have a preference on paperless billing as it seems people who are billed in a paperless manner are more likely not to churn.
+
+8. # Power BI Dashboards
+[TelecomBIdashboards.pdf](https://github.com/wainaina-peter/Customer-Churn-Prediction-using-Logistic-Regression/files/14121594/TelecomBIdashboards.pdf)
+
+
