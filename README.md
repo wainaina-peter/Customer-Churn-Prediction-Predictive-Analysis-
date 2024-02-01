@@ -37,6 +37,12 @@ Based on the analysis conducted of the different columns against the target vari
 - Have a preference on paperless billing as it seems people who are billed in a paperless manner are more likely not to churn.
 
 8. # Power BI Dashboards
+![Screenshot 2024-02-01 102144](https://github.com/wainaina-peter/Customer-Churn-Prediction-using-Logistic-Regression/assets/80960028/58bb1d0b-977c-4dac-8931-3d8e3a0bc3bb)
+
+
+![Screenshot 2024-02-01 102211](https://github.com/wainaina-peter/Customer-Churn-Prediction-using-Logistic-Regression/assets/80960028/b384d499-750f-4d91-9b4d-1e18bdcd0309)
+
+
 [TelecomBIdashboards.pdf](https://github.com/wainaina-peter/Customer-Churn-Prediction-using-Logistic-Regression/files/14121594/TelecomBIdashboards.pdf)
 
 
